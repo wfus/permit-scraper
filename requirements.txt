@@ -1,1 +1,2 @@
 selenium
+pre-commit==2.15.0
